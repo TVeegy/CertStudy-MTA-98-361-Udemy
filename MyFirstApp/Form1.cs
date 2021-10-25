@@ -19,7 +19,9 @@ namespace MyFirstApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World");
+            MessageBox.Show("WOW - You Clicked me and I Dissapeared!");
+            button1.Visible = false;
+            button1.ForeColor = Color.Blue;
         }
     }
 }
