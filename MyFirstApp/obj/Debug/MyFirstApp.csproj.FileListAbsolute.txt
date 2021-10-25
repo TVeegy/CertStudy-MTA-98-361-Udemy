@@ -1,0 +1,10 @@
+C:\1-School_Data\Temp-CertPrep\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\1-School_Data\Temp-CertPrep\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\1-School_Data\Temp-CertPrep\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\1-School_Data\Temp-CertPrep\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+C:\1-School_Data\Temp-CertPrep\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Form1.resources
+C:\1-School_Data\Temp-CertPrep\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+C:\1-School_Data\Temp-CertPrep\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.cache
+C:\1-School_Data\Temp-CertPrep\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\1-School_Data\Temp-CertPrep\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\1-School_Data\Temp-CertPrep\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
